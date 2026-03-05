@@ -1,5 +1,5 @@
 # Gene Regulatory Network Inference – Complete Solution  
-**AZeotropy ’26 Competition | IIT Bombay**
+***AZeotropy ’26 Competition | IIT Bombay***
 
 ---
 
